@@ -6,7 +6,7 @@ import ProductCard, {ProductTitle, ProductImage, ProductButtons} from 'adlb-prod
 const product = {
   id: '1',
   title: 'Coffee Mug - Card',
-  // img: './coffee-mug.png'
+  img: './coffee-mug.png'
 }
 
 const App = () => {
